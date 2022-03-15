@@ -20,6 +20,7 @@ body {
 #list-menu {
   width: 80%;
 }
+
 .bar1,
 .bar2,
 .bar3 {
@@ -82,4 +83,3 @@ body {
   display: flex;
   justify-content: space-around;
 }
-
