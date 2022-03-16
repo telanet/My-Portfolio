@@ -106,7 +106,7 @@ body {
   height: 590px;
   background-position: right bottom;
   background-repeat: no-repeat;
-  background-image: url(/img/Illustration.png);
+  background-image: url(images/Illustration.png);
 }
 
 .intro h1 {
@@ -148,7 +148,7 @@ body {
 }
 
 img {
-  width: 100%;
+  width: 90%;
 }
 
 .work {
