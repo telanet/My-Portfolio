@@ -46,23 +46,26 @@ body {
 .intro {
   display: flex;
   flex-direction: column;
-  padding: 0 24px 0 24px;
+  background-size: 130px auto;
+  padding: 130px 24px 100px;
   background-color: #1c1a19;
   justify-content: center;
-  height: 590px;
   background-position: right bottom;
   background-repeat: no-repeat;
-  background-image: url(/img/Illustration.png);
+  background-image: url(/images/illustration.png);
 }
 
 .intro h1 {
   margin: 0;
   font-size: 56px;
+  font-family: 'Crete Round', serif;
   color: #ff6b00;
 }
 
 .intro h3 {
   color: #fff5e1;
+  font-family: Roboto, sans-serif;
+  font-size: 24px;
   margin: 0;
 }
 
