@@ -1,65 +1,51 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Project Name
 
-# MOBILE SKELETON PORTFOLIO
+-Portfolio: Mobile Version
 
-> A "Mobile skeleton portfolio" HTML-5 & CSS3 repository.
+![screenshot](images/screenshot1.png)
+![screenshot](./images/screenshot2.png)
 
-![screenshot](./images/screenshot.png)
+# Getting Started
+-To get a local copy up and running follow these simple example steps.
 
-It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CSS3 flexbox and figma.
+## Setup
+-To setup the webpage in your local up in the repo page: click on code (dropdown list) > Download as ZIP
+
+# Deployment
+-To run the project open folder (after extraction) then run index.html
 
 ## Built With
 
-- HTML-5
-- CSS3
-- Linters
-- Figma
-## Getting Started
-
-- To get a local copy up and running follow these simple example steps.
+- HTML
+- CSS
 
 ### Prerequisites
-
-- You only need a browser to run the html file in.
-
-### Setup
-
-- Create a new folder to store the files in.
-
-### Install
-
-- Open your command prompt or terminal and run.
-- git clone git@github.com:telanet/My-Portfolio.git .
-
-
-### Run tests
-
-- To run tests run :
-- npx hint .
-- npx stylelint "**/*.{css,scss}"
-
-### Deployment
-
-- Project is deployed using
-- git push <branch_name>
+-Git
+-VS Code
+-Linters
 
 ## Authors
 
-👤 **Benard Ngetich**
+👤 **Author1**
 
-- GitHub: [@telanet ](https://github.com/telanet)
+- GitHub: [@telanet](https://github.com/telanet)
 - Twitter: [@Ben54647605](https://twitter.com/Ben54647605)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+This project welcomes contributions.
 
-Feel free to check the [issues page](https://github.com/telanet/My-Portfolio).
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## 📝 License
+## Acknowledgments
 
-This project is [MIT](./MIT.md) licensed.
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+MIT
