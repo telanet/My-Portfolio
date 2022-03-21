@@ -588,6 +588,11 @@ ul {
   height: 48px;
 }
 
+/* adding hover efffects on buttons */
+.btn-touch:hover {
+  color: orange;
+}
+
 .submit {
   background: #ff6b00;
   text-align: center;
