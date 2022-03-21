@@ -474,6 +474,10 @@ ul {
   padding-right: 18px;
 }
 
+.footer-social li img {
+  color: #505f79;
+}
+
 .form > ul > li {
   margin-bottom: 39px;
   flex: 1;
