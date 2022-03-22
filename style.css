@@ -474,6 +474,10 @@ ul {
   padding-right: 18px;
 }
 
+.footer-social li img {
+  color: #505f79;
+}
+
 .form > ul > li {
   margin-bottom: 39px;
   flex: 1;
@@ -538,6 +542,85 @@ ul {
   background: #ff6b00;
   border-radius: 150px;
   margin-right: 12px;
+}
+
+.projectBody ul li {
+  list-style: none;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  margin-right: 12px;
+  position: static;
+}
+
+.projectHTML ul li {
+  width: 32px;
+  height: 20px;
+  padding: 10px 12px;
+  color: #fff;
+  position: relative;
+  right: 39px;
+}
+
+.projectBootstrap ul li {
+  width: 71px;
+  height: 20px;
+  padding: 10px 12px;
+  color: #fff;
+  margin-right: 30px;
+  position: relative;
+  right: 39px;
+}
+
+.projectRuby {
+  width: 61px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.24);
+  margin-right: 12px;
+  margin-left: -10px;
+}
+
+.projectRuby ul li {
+  width: 37px;
+  height: 20px;
+  padding: 10px 12px;
+  color: #fff;
+  position: relative;
+  right: 39px;
+}
+
+.technologies ul li {
+  text-align: left;
+}
+
+.technologies li > ul > li {
+  margin-bottom: 32px;
+  height: 24px;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 43px;
+  color: #fff;
+}
+
+/* adding hover efffects on buttons */
+.langs li:hover {
+  background-color: #ffd6cc;
+  color: #f55800;
+}
+
+.langs li:active {
+  background-color: #f55800;
+  color: white;
+}
+
+.langs li:focus {
+  background-color: #f55800;
+  color: white;
 }
 
 .contact-form {
@@ -659,32 +742,11 @@ button:disabled {
   margin-bottom: 22px;
 }
 
-.projectBody ul li {
-  list-style: none;
-  color: #fff;
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 15px;
-  line-height: 20px;
-  margin-right: 12px;
-  position: static;
-}
-
 .projectHTML {
   width: 56px;
   height: 40px;
   background: rgba(255, 255, 255, 0.24);
   margin-right: 24px;
-}
-
-.projectHTML ul li {
-  width: 32px;
-  height: 20px;
-  padding: 10px 12px;
-  color: #fff;
-  position: relative;
-  right: 39px;
 }
 
 .projectBootstrap {
@@ -693,33 +755,6 @@ button:disabled {
   background: rgba(255, 255, 255, 0.24);
   margin-left: -24px;
   margin-right: 12px;
-}
-
-.projectBootstrap ul li {
-  width: 71px;
-  height: 20px;
-  padding: 10px 12px;
-  color: #fff;
-  margin-right: 30px;
-  position: relative;
-  right: 39px;
-}
-
-.projectRuby {
-  width: 61px;
-  height: 40px;
-  background: rgba(255, 255, 255, 0.24);
-  margin-right: 12px;
-  margin-left: -10px;
-}
-
-.projectRuby ul li {
-  width: 37px;
-  height: 20px;
-  padding: 10px 12px;
-  color: #fff;
-  position: relative;
-  right: 39px;
 }
 
 .technologies {
@@ -731,21 +766,6 @@ button:disabled {
   margin-block-start: 0;
   margin-block-end: 0;
   padding-inline-start: 0;
-}
-
-.technologies ul li {
-  text-align: left;
-}
-
-.technologies li > ul > li {
-  margin-bottom: 32px;
-  height: 24px;
-  font-family: 'Inter', Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 22px;
-  line-height: 43px;
-  color: #fff;
 }
 
 .technologies h4 {
