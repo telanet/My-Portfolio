@@ -589,8 +589,19 @@ ul {
 }
 
 /* adding hover efffects on buttons */
-.btn-touch:hover {
-  color: orange;
+.langs li:hover {
+  background-color: #ffd6cc;
+  color: #f55800;
+}
+
+.langs li:active {
+  background-color: #f55800;
+  color: white;
+}
+
+.langs li:focus {
+  background-color: #f55800;
+  color: white;
 }
 
 .submit {
