@@ -1,8 +1,10 @@
 # Project Name
 
--Portfolio: Contact and footer section
+-Portfolio: Desktop portfolio
 
-![screenshot](images/screenshot3.png)
+![screenshot](images/screenshot.png)
+![screenshot](images/screenshot1.png)
+![screenshot](images/screenshot2.png)
 
 # Getting Started
 -To get a local copy up and running follow these simple example steps.
