@@ -360,7 +360,7 @@ footer ul li:hover {
 
 .aboutme-section {
   background: #1c1a19;
-  background-image: url(../images/illustration-aboutme-mobile.svg);
+  background-image: url(./images/illustration-aboutme-mobile.svg);
   background-repeat: no-repeat;
   background-position: right 370px;
   background-size: 160px auto;
@@ -558,7 +558,7 @@ footer .bottom-navigator {
   }
 
   .first-section {
-    background-image: url(../images/sideimage.png);
+    background-image: url(./images/sideimage.png);
     background-position: right center;
     background-size: auto 600px;
     padding: 150px 100px 100px 100px;
