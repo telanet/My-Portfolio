@@ -206,7 +206,7 @@ header {
 
 .first-section {
   background: #1c1a19;
-  background-image: url(../images/illustration-header-mobile.svg);
+  background-image: url(./images/illustration-header-mobile.svg);
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: 150px auto;
@@ -331,7 +331,7 @@ footer ul li:hover {
 .grid-container .post-article {
   max-width: 327px;
   height: auto;
-  background-image: url(../images/img-placeholder-articles.png);
+  background-image: url(./images/img-placeholder-articles.png);
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
@@ -360,7 +360,7 @@ footer ul li:hover {
 
 .aboutme-section {
   background: #1c1a19;
-  background-image: url(../images/illustration-aboutme-mobile.svg);
+  background-image: url(./images/illustration-aboutme-mobile.svg);
   background-repeat: no-repeat;
   background-position: right 370px;
   background-size: 160px auto;
@@ -402,19 +402,6 @@ footer ul li:hover {
   background-position: 0 13px;
   background-size: 18px 18px;
   background-repeat: no-repeat;
-}
-
-.aboutme-section .skills .languages-skills span {
-  background-image: url('../icons/rectangle-roted.png');
-  background-size: 22px 22px;
-}
-
-.aboutme-section .skills .frameworks-skills span {
-  background-image: url('../icons/rectangle.png');
-}
-
-.aboutme-section .skills .additional-skills span {
-  background-image: url('../icons/disc.png');
 }
 
 .aboutme-section .skills .ul-sublist {
@@ -558,7 +545,7 @@ footer .bottom-navigator {
   }
 
   .first-section {
-    background-image: url(../images/sideimage.png);
+    background-image: url(./images/sideimage.png);
     background-position: right center;
     background-size: auto 600px;
     padding: 150px 100px 100px 100px;
@@ -643,7 +630,7 @@ footer .bottom-navigator {
   }
 
   .aboutme-section {
-    background-image: url(../images/illustration-aboutme.svg);
+    background-image: url(./images/illustration-aboutme.svg);
     background-position: right 150px;
     background-size: 450px auto;
   }
