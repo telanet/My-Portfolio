@@ -404,19 +404,6 @@ footer ul li:hover {
   background-repeat: no-repeat;
 }
 
-.aboutme-section .skills .languages-skills span {
-  background-image: url('./icons/rectangle-roted.png');
-  background-size: 22px 22px;
-}
-
-.aboutme-section .skills .frameworks-skills span {
-  background-image: url('./icons/rectangle.png');
-}
-
-.aboutme-section .skills .additional-skills span {
-  background-image: url('./icons/disc.png');
-}
-
 .aboutme-section .skills .ul-sublist {
   font-weight: normal;
   font-size: 22px;
