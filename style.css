@@ -206,7 +206,7 @@ header {
 
 .first-section {
   background: #1c1a19;
-  background-image: url(../images/illustration-header-mobile.svg);
+  background-image: url(./images/illustration-header-mobile.svg);
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: 150px auto;
@@ -331,7 +331,7 @@ footer ul li:hover {
 .grid-container .post-article {
   max-width: 327px;
   height: auto;
-  background-image: url(../images/img-placeholder-articles.png);
+  background-image: url(./images/img-placeholder-articles.png);
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
@@ -405,16 +405,16 @@ footer ul li:hover {
 }
 
 .aboutme-section .skills .languages-skills span {
-  background-image: url('../icons/rectangle-roted.png');
+  background-image: url('./icons/rectangle-roted.png');
   background-size: 22px 22px;
 }
 
 .aboutme-section .skills .frameworks-skills span {
-  background-image: url('../icons/rectangle.png');
+  background-image: url('./icons/rectangle.png');
 }
 
 .aboutme-section .skills .additional-skills span {
-  background-image: url('../icons/disc.png');
+  background-image: url('./icons/disc.png');
 }
 
 .aboutme-section .skills .ul-sublist {
@@ -643,7 +643,7 @@ footer .bottom-navigator {
   }
 
   .aboutme-section {
-    background-image: url(../images/illustration-aboutme.svg);
+    background-image: url(./images/illustration-aboutme.svg);
     background-position: right 150px;
     background-size: 450px auto;
   }
