@@ -24,6 +24,7 @@
 -Git
 -VS Code
 -Linters
+-Github pages
 
 ## Live Demo
 Live site URL to portfolio
