@@ -1,6 +1,6 @@
 # Project Name
 
--Portfolio: Desktop portfolio
+-Portfolio: Portfolio Deploy
 
 ![screenshot](images/screenshot.png)
 ![screenshot](images/screenshot1.png)
@@ -24,6 +24,10 @@
 -Git
 -VS Code
 -Linters
+
+## Live Demo
+Live site URL to portfolio
+[Live Demo Link](https://https://telanet.github.io/My-Portfolio/)
 
 ## Authors
 
