@@ -36,7 +36,7 @@ cd My-Portfolio
 
 ## Live Demo
 Live site URL to portfolio
-[Live Demo Link](https://https://telanet.github.io/My-Portfolio/)
+[Live Demo Link](https://telanet.github.io/My-Portfolio/)
 
 ## Authors
 
