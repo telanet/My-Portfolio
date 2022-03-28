@@ -13,8 +13,16 @@
 -To setup the webpage in your local up in the repo page: click on code (dropdown list) > Download as ZIP
 
 # Deployment
--To run the project open folder (after extraction) then run index.html
+ ## Getting Started
 
+To get a local copy up and running follow these simple example steps.
+
+Clone the repo to your local machine.
+
+git clone https://github.com/telanet/My-Portfolio.git
+
+cd My-Portfolio
+  
 ## Built With
 
 - HTML
