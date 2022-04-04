@@ -1,8 +1,8 @@
 # Project Name
 
--Portfolio: Contact and footer section
+-Portfolio: Mobile menu
 
-![screenshot](images/screenshot3.png)
+![screenshot](images/screenshot-1.png)
 
 # Getting Started
 -To get a local copy up and running follow these simple example steps.
@@ -17,6 +17,7 @@
 
 - HTML
 - CSS
+- javascript
 
 ### Prerequisites
 -Git
@@ -29,6 +30,10 @@
 
 - GitHub: [@telanet](https://github.com/telanet)
 - Twitter: [@Ben54647605](https://twitter.com/Ben54647605)
+
+👤 **Author2**
+
+- GitHub: [@braincee](https://github.com/braincee)
 
 ## 🤝 Contributing
 
