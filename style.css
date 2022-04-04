@@ -49,22 +49,22 @@ body > * {
 }
 
 .ul-list .list-item-icon {
-  width: 40px;
-  height: 40px;
+  width: 2.5rem;
+  height: 2.5rem;
   padding: 8px;
 }
 
 a.link {
   text-decoration: none;
   font-weight: 600;
-  font-size: 15px;
-  line-height: 20px;
+  font-size: 0.9rem;
+  line-height: 1.25rem;
   display: flex;
   align-items: center;
 }
 
 a.link-icon {
-  font-size: 20px;
+  font-size: 4.2rem;
   line-height: calc(40px - 16px);
 }
 
