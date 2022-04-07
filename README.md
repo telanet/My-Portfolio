@@ -1,8 +1,8 @@
 # Project Name
 
--Portfolio: Mobile menu
+-Portfolio: modal window
 
-![screenshot](images/screenshot-1.png)
+![screenshot](images/screenshot-2.png)
 
 # Getting Started
 -To get a local copy up and running follow these simple example steps.
