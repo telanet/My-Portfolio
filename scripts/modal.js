@@ -68,8 +68,8 @@ const projectList = [
     ruby: 'Ruby On Rails',
     projectImage: './images/mobilemodal.png',
     projectDesc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam amet animi voluptate doloribus at quaerat, vitae dicta sunt possimus voluptatum, facilis vel? Eligendi, harum ipsum excepturi sint at quasi? Repellendus eveniet suscipit quibusdam inventore architecto minus eligendi adipisci. Harum atque voluptate dolore fugiat pariatur eius ullam architecto porro aspernatur nihil.',
-    projectbtnlive: 'https://telanet.github.io/portfolio/',
-    projectbtnsource: 'https://telanet.github.io/portfolio/',
+    projectbtnlive: 'https://telanet.github.io/My-Portfolio/',
+    projectbtnsource: 'https://telanet.github.io/My-Portfolio/',
   },
 ];
 
@@ -98,8 +98,8 @@ function modalpopup() {
           <p class="desktophide">${projectList[projectList.length - 1].projectDesc}</p>
           <p class="mobilehide">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releax map lapora verita.</p>
           <div class="popupcontbodyrightbtns">
-          <a href="https://telanet.github.io/portfolio/"><button type="button" id="modalbtns live">See Live <img src="./images/viewlive.png" alt="view live"></button></a>
-          <a href="https://github.com/telanet/portfolio"><button type="button" id="modalbtns live">See Source <img src="./images/viewsource.png" alt=""></button></a>
+          <a href="https://telanet.github.io/My-Portfolio/"><button type="button" id="modalbtns live">See Live <img src="./images/viewlive.png" alt="view live"></button></a>
+          <a href="https://github.com/telanet/My-Portfolio"><button type="button" id="modalbtns live">See Source <img src="./images/viewsource.png" alt=""></button></a>
           </div>
         </div>
       </div>
