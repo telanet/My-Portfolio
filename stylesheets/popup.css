@@ -6,7 +6,7 @@
   width: 100%;
   height: 100vh;
   background: #979493;
-  z-index: 2;
+  z-index: 10;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -17,19 +17,16 @@
 }
 
 .popupcont {
-  background: #ebecf0;
-  margin: 35px auto 24px;
+  background: #fff;
+  margin: 35px auto 24px auto;
   border: 1px solid #dfe1e6;
-  width: 1135px;
-  height: 631px;
-  margin-bottom: 45px;
+  width: 90%;
 }
 
 .popupcontheader {
   padding: 16px;
   display: flex;
   justify-content: space-between;
-  margin-top: 15px;
 }
 
 .popupcontheader h2 {
@@ -58,7 +55,6 @@
 
 .popupcontlangs ul {
   display: flex;
-  justify-content: flex-start;
   justify-content: space-around;
 }
 
@@ -71,51 +67,31 @@
   line-height: 16px;
   color: #3c3a39;
   padding: 9px;
-  margin-left: 20px;
 }
 
 .popupcontbody {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 24px;
   margin: 24px 16px;
-  height: 80vh;
 }
 
 .popupcontbodyleft img {
-  height: 448px;
-  width: 659px;
+  max-width: 100%;
+  width: 100%;
   margin-bottom: 20px;
 }
 
-.popupcontbodyright {
-  width: 424px;
-  height: 448px;
+.popupcontbodyright p {
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 30px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.popupcontbodyright p {
-  font-family: "Inter", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 30px;
+  line-height: 22px;
   color: #344563;
+  margin-bottom: 13px;
 }
 
 .popupcontbodyrightbtns {
-  position: absolute;
   display: flex;
-  justify-content: flex-start;
   justify-content: space-between;
-  margin-top: 30px !important;
-  bottom: 20%;
 }
 
 .popupcontbodyrightbtns button {
@@ -138,8 +114,6 @@
 .popupcontbodyrightbtns button img {
   padding-left: 8px;
 }
-
-/* MEDIA QUERY */
 
 @media screen and (min-width: 992px) {
   .mobilehide {
@@ -178,7 +152,7 @@
   .popupcontbodyrightbtns {
     justify-content: flex-start;
     position: absolute;
-    bottom: 10%;
+    bottom: 32%;
   }
 
   .popupcontbodyrightbtns button {
