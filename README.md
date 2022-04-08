@@ -1,8 +1,8 @@
 # Project Name
 
--Portfolio: modal window
+-Portfolio: Email validation
 
-![screenshot](images/screenshot-2.png)
+![screenshot](images/screenshot3.png)
 
 # Getting Started
 -To get a local copy up and running follow these simple example steps.
